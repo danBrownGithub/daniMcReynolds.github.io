@@ -8,6 +8,10 @@ a {
     color: #FF851B;   
 }
 
+ul {
+    list-style-type: none;   
+}
+
 h1 {
     padding-top: 50px;
     color: lightpink;
