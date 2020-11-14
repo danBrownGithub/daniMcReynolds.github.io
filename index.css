@@ -1,14 +1,15 @@
 * {
     font-family: Roboto, Helvetica, sans-serif;
     background-color: black;
+    text-align: center;
 }
 
 
 h1 {
-    padding-top: 100px;
+    padding-top: 50px;
     color: lightpink;
     font-family: 'Ubuntu', sans-serif;
-    text-align: center;
+    padding-bottom: 50px;
 }
 
 p,
@@ -23,4 +24,8 @@ li {
 
 .rightside {
     background-color: plum;
+}
+
+.break {
+    color: crimson;
 }
